@@ -8,7 +8,7 @@ For fisrt users of this 'msbayes' package, it is highly recommended to install l
 
 This package include all functions:
 
-bay.mode							calculate the bayesian posterior mode    
+bay.mode		      calculate the bayesian posterior mode    
 methyl.bayes.plot		plot the methylation level both in region and site level    
 methyl.bayes			estimate methylation in region level    
 methyl.bayes.site		estimate methylation in site level    
