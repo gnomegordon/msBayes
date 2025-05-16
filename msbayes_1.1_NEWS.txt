@@ -1,0 +1,14 @@
+Software and datasets to support 'Wu G, Yi N, Absher D, Zhi D (2011) Statistical Quantification of Methylation Levels by Next-Generation Sequencing. PLoS ONE 6(6): e21034. doi:10.1371/journal.pone.0021034'
+
+This software package 'msbayes version 1.1' changes from 'msbayes version 1.0'. Generally, the new release could be installed directly from R 2.14 above, and the functions could fit new release of Methyl-Seq or RRBS data, instead of original Brunner et al (2009)'s data
+
+- the new release could be directly installed in R > 2.14 version
+- demo add the TPE estimates 
+- demo add the input format illustration
+- all help files have been revised for clear illustration, especially input format illustration.
+- 'methyl.bayes' function has been revised to fit general region based methyl-seq data.
+- 'methyl.bayes.site' function has been revised to fit general site based methyl-seq data.
+- 'methyl.tpe' function has been revised to fit general region or site based methyl-seq data.
+- 'rrbs.bayes' function has been revised to fit general region or site based RRBS data.
+- 'methyl.sim' function has been revised to generate region based methyl-seq data.
+- 'rrbs.sim' function has been revised to generate general region or site based RRBS data.
