@@ -8,14 +8,14 @@ For fisrt users of this 'msbayes' package, it is highly recommended to install l
 
 This package include all functions:
 
-bay.mode             	calculate the bayesian posterior mode    
-methyl.bayes.plot			plot the methylation level both in region and site level    
-methyl.bayes		     	estimate methylation in region level    
-methyl.bayes.site		 	estimate methylation in site level    
-methyl.sim			     	generate the simulation data for Methyl-Seq    
-methyl.tpe			     	MLE of the methylation in region or site level    
-rrbs.bayes			     	estimate methylation in RRBS
-rrbs.sim			   		  generate the simulation data for RRBS	   
+bay.mode							calculate the bayesian posterior mode    
+methyl.bayes.plot		plot the methylation level both in region and site level    
+methyl.bayes			estimate methylation in region level    
+methyl.bayes.site		estimate methylation in site level    
+methyl.sim			generate the simulation data for Methyl-Seq    
+methyl.tpe			MLE of the methylation in region or site level    
+rrbs.bayes			estimate methylation in RRBS
+rrbs.sim			generate the simulation data for RRBS	   
 
 If you have any quesions, please contact us: Guodong Wu, Nengjun Yi, Devin Absher, Degui Zhi at Guodong Wu<guodong.wu@gmail.com> or Degui Zhi <dzhi@ms.soph.uab.edu>.
 
